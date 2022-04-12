@@ -1,3 +1,3 @@
 # vacuumworlds-ts
 
-A TypeScript implementation of [VacuumWorld](https://github.com/dicelab-rhul/vacuumworld).
+A (Work-In-Progress) TypeScript implementation of [VacuumWorld](https://github.com/dicelab-rhul/vacuumworld).
